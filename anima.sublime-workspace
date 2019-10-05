@@ -1,0 +1,1504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ministry",
+				"ministry_id"
+			],
+			[
+				"sms",
+				"sms_message"
+			],
+			[
+				"remo",
+				"removed_file"
+			],
+			[
+				"amou",
+				"amount_oneoff"
+			],
+			[
+				"amount",
+				"amount_recurring"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"resou",
+				"resource_db_prefix"
+			],
+			[
+				"arra",
+				"array_keys"
+			],
+			[
+				"amount_",
+				"amount_oneoff"
+			],
+			[
+				"params",
+				"params_key"
+			],
+			[
+				"Giv",
+				"Giving_Pledge"
+			],
+			[
+				"go",
+				"gocardless"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"subscription",
+				"subscription_meta"
+			],
+			[
+				"stripe",
+				"stripe_id"
+			],
+			[
+				"pledgesub",
+				"pledge_subscription_id"
+			],
+			[
+				"pledge_subscription",
+				"pledge_subscription_meta"
+			],
+			[
+				"donate",
+				"donate_recurring"
+			],
+			[
+				"runTest",
+				"runTestModelAdd"
+			],
+			[
+				"Ex",
+				"Exception_Validation_Validate"
+			],
+			[
+				"Exce",
+				"Exception_Validation"
+			],
+			[
+				"In",
+				"Input_Text"
+			],
+			[
+				"Inpu",
+				"Input_Html"
+			],
+			[
+				"Help",
+				"Helper_Color"
+			],
+			[
+				"Helper",
+				"Helper_Actions"
+			],
+			[
+				"field",
+				"field_colour"
+			],
+			[
+				"bran",
+				"brand_id"
+			],
+			[
+				"fund_get_",
+				"fund_get_by_identifier"
+			],
+			[
+				"public",
+				"public_visible"
+			],
+			[
+				"confirm",
+				"confirm_email_body"
+			],
+			[
+				"Chur",
+				"ChurchApp_Account"
+			],
+			[
+				"Churc",
+				"ChurchApp"
+			],
+			[
+				"Giving",
+				"Giving_Fund"
+			],
+			[
+				"Church",
+				"ChurchApp_Account"
+			],
+			[
+				"tax_de",
+				"tax_deductible"
+			],
+			[
+				"Integ",
+				"Integration_Giving"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"Givi",
+				"Giving_Fund"
+			],
+			[
+				"custom",
+				"custom_fields"
+			],
+			[
+				"unav",
+				"unavailabilityid"
+			],
+			[
+				"un",
+				"unavailability_id"
+			],
+			[
+				"person",
+				"personTypeIds"
+			],
+			[
+				"personTye",
+				"personTypeIds"
+			],
+			[
+				"person_Typ",
+				"person_type_id"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"personType",
+				"personTypeIds"
+			],
+			[
+				"pesron",
+				"personInputs"
+			],
+			[
+				"perso",
+				"person_type_id"
+			],
+			[
+				"person_",
+				"person_type_ids"
+			],
+			[
+				"person_type",
+				"person_type_id"
+			],
+			[
+				"family",
+				"family_member"
+			],
+			[
+				"allDa",
+				"allDayField"
+			],
+			[
+				"rota_",
+				"rota_unavailability"
+			],
+			[
+				"rotaUnavailability_Init",
+				"rotaUnavailability_InitAdd"
+			],
+			[
+				"unavail",
+				"unavailable"
+			],
+			[
+				"leave",
+				"leave_request_id"
+			],
+			[
+				"rota",
+				"rota_id"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"descrition",
+				"get_description"
+			],
+			[
+				"validate",
+				"validation_errors"
+			],
+			[
+				"has_pub",
+				"has_public_edit"
+			],
+			[
+				"Small",
+				"SmallGroups_Role"
+			],
+			[
+				"Smal",
+				"SmallGroups_Role"
+			],
+			[
+				"from",
+				"from_status"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Add",
+				"Addressbook_Contact_Add"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"over",
+				"overseers"
+			],
+			[
+				"atte",
+				"attendance_dates"
+			],
+			[
+				"Inte",
+				"Integration_SmallGroups"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"Pla",
+				"Planning_Type_Add"
+			],
+			[
+				"respose",
+				"response_type"
+			],
+			[
+				"CHur",
+				"ChurchApp_User"
+			],
+			[
+				"tema",
+				"template_items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zach/Documents/anima"
+	],
+	"file_history":
+	[
+		"/admin/churchapp/master/tests/Integration/Rotas.php",
+		"/admin/churchapp/master/tests/Rotas/MinistryOverseer.php/APITest.php",
+		"/admin/churchapp/master/tests/Rotas/Unavailability/ModelTest.php",
+		"/admin/churchapp/master/modules/rotas/classes/_Unavailability.php",
+		"/admin/churchapp/master/tests/Rotas/Unavailability/APITest.php",
+		"/admin/churchapp/master/modules/rotas/classes/_APIv1.php",
+		"/admin/churchapp/master/modules/rotas/classes/_Rota.php",
+		"/admin/churchapp/master/modules/rotas/classes/Trait/_Validation.php",
+		"/admin/churchapp/master/tests/Rotas/TearDown.php",
+		"/admin/churchapp/master/modules/rotas/classes/_Rotas.php",
+		"/admin/churchapp/master/classes/_AutoObject.php",
+		"/admin/churchapp/master/tests/Integration/Calendar.php",
+		"/admin/churchapp/master/classes/Helper/_String.php",
+		"/admin/churchapp/master/classes/Integration/_BulkSMS.php",
+		"/admin/churchapp/master/classes/_Person.php",
+		"/admin/churchapp/master/classes/Communication/_SMS.php",
+		"/admin/churchapp/master/classes/Integration/_SMS.php",
+		"/admin/churchapp/master/modules/addressbook/classes/_Contact.php",
+		"/admin/churchapp/master/classes/Integration/_Textlocal.php",
+		"/admin/churchapp/master/modules/giving/classes/_Giving.php",
+		"/admin/churchapp/master/modules/giving/classes/_Fund.php",
+		"/admin/churchapp/master/tests/Giving/Fund/ChangelogTest.php",
+		"/admin/churchapp/master/modules/giving/classes/_APIv1.php",
+		"/admin/churchapp/master/classes/Model/_Loggable.php",
+		"/admin/churchapp/master/classes/Model/_File.php",
+		"/admin/churchapp/master/modules/bookings/classes/_Booking.php",
+		"/admin/churchapp/master/modules/giving/fund_changelog_undo.php",
+		"/admin/churchapp/master/modules/giving/fund_index.php",
+		"/admin/churchapp/master/modules/giving/classes/_AJAX.php",
+		"/admin/churchapp/master/classes/Helper/_UI.php",
+		"/admin/churchapp/master/modules/giving/views/pajax/fund.php",
+		"/admin/churchapp/master/modules/giving/donation_edit.php",
+		"/admin/churchapp/master/_tests/Giving/_DeclarationTest.php",
+		"/admin/churchapp/master/modules/addressbook/contact_index.php",
+		"/admin/churchapp/master/modules/rotas/ministry_index.php",
+		"/admin/churchapp/master/modules/rotas/classes/_Ministry.php",
+		"/admin/churchapp/master/modules/giving/classes/_Declaration.php",
+		"/admin/churchapp/master/modules/giving/classes/Trait/_Validation.php",
+		"/admin/churchapp/master/tests/ChurchSuite/Site/ChangelogTest.php",
+		"/admin/churchapp/master/classes/_ChurchApp.php",
+		"/admin/churchapp/master/classes/Trait/Test/_Giving.php",
+		"/admin/churchapp/master/_tests/Import/_DonationsTest.php",
+		"/admin/churchapp/master/_tests/Giving/_GiverTest.php",
+		"/admin/churchapp/master/tests/Giving/Fund/ModelTest.php",
+		"/admin/churchapp/master/modules/giving/views/ajax/form_fund.php",
+		"/admin/churchapp/master/classes/Integration/Stripe/_Account.php",
+		"/admin/churchapp/master/classes/Integration/_Account.php",
+		"/admin/churchapp/master/classes/Model/_Validation.php",
+		"/admin/churchapp/master/tests/Giving/Fund/SearchTest.php",
+		"/admin/churchapp/master/classes/Model/_Output.php",
+		"/admin/churchapp/master/tests/Assertions.php",
+		"/admin/churchapp/master/tests/phpunit.xml",
+		"/admin/churchapp/master/tests/Examples/ValidateTest.php",
+		"/admin/churchapp/master/classes/_Note.php",
+		"/admin/churchapp/master/classes/_Site.php",
+		"/admin/churchapp/master/modules/giving/classes/_Pledge.php",
+		"/admin/churchapp/master/tests/Giving/Pledge/ValidateTest.php",
+		"/admin/churchapp/master/classes/_Flow.php",
+		"/admin/churchapp/master/tests/Giving/Pledge/ModelTest.php",
+		"/admin/churchapp/master/modules/giving/classes/_Reports.php",
+		"/admin/churchapp/master/tests/Calendar/LeaveRequest/ModelTest.php",
+		"/admin/churchapp/master/tests/TestCase.php",
+		"/admin/churchapp/master/tests/AddressBook/Contact/ModelTest.php",
+		"/admin/churchapp/master/tests/Giving/Pledge/SearchTest.php",
+		"/admin/churchapp/master/modules/smallgroups/group_view.php",
+		"/admin/churchapp/master/modules/smallgroups/classes/_Group.php",
+		"/admin/churchapp/master/modules/smallgroups/views/signup_fields.php",
+		"/admin/churchapp/master/modules/giving/views/ajax/form_fund_confirmation.php",
+		"/admin/churchapp/master/modules/smallgroups/views/ajax/form_group_confirmation.php",
+		"/admin/churchapp/master/modules/giving/fund_view.php",
+		"/admin/churchapp/master/modules/giving/views/donation_confirmation_table.php",
+		"/admin/churchapp/master/modules/giving/views/form/fund_confirmation.php",
+		"/admin/churchapp/master/modules/smallgroups/views/form/group_confirmation.php",
+		"/admin/churchapp/master/modules/giving/views/ajax/view_fund_confirmation.php",
+		"/admin/churchapp/master/modules/calendar/classes/_APIv1.php",
+		"/admin/churchapp/master/modules/giving/views/form/form_confirmation.php",
+		"/admin/churchapp/master/modules/children/views/pajax/group_view.php",
+		"/admin/churchapp/master/modules/smallgroups/views/group_view_map.php",
+		"/admin/churchapp/master/tests/Integration/Giving.php",
+		"/admin/churchapp/master/modules/smallgroups/classes/_SmallGroups.php",
+		"/admin/churchapp/master/modules/giving/module_config.php",
+		"/admin/churchapp/master/classes/Trait/APIv1/_Image.php",
+		"/admin/churchapp/master/classes/_ChurchSuite.php",
+		"/admin/churchapp/master/classes/_Avatar.php",
+		"/admin/churchapp/master/tests/Avatars.php",
+		"/admin/churchapp/master/tests/Giving/Fund/APITest.php",
+		"/admin/churchapp/master/modules/calendar/reports/signup_progress.php",
+		"/admin/churchapp/master/modules/calendar/classes/_Reports.php",
+		"/admin/churchapp/master/modules/calendar/classes/_Event.php",
+		"/admin/churchapp/master/modules/calendar/category_view.php",
+		"/admin/churchapp/master/modules/bookings/type_view.php",
+		"/admin/churchapp/master/modules/calendar/classes/Model/_Fields.php",
+		"/admin/churchapp/master/classes/Model/_Fields.php",
+		"/admin/churchapp/master/classes/ChurchApp/_Account.php",
+		"/admin/churchapp/master/tests/API.php",
+		"/admin/churchapp/master/tests/Bookings/Booking/APITest.php",
+		"/admin/churchapp/master/tests/Integration/SmallGroups.php",
+		"/admin/churchapp/master/classes/_Chart.php",
+		"/admin/churchapp/master/modules/smallgroups/module_config.php",
+		"/admin/churchapp/master/views/ajax/form_integration_stripe_account.php",
+		"/admin/churchapp/master/tests/Giving/Fund/ValidateTest.php",
+		"/admin/churchapp/master/tests/Giving/Donation/APITest.php",
+		"/admin/churchapp/master/tests/Giving/TearDown.php",
+		"/admin/churchapp/master/tests/Classes/Integration/Stripe/ModelTest.php",
+		"/admin/churchapp/master/modules/giving/views/reports/funds_deleted.php",
+		"/admin/churchapp/master/modules/giving/fund_edit.php",
+		"/admin/churchapp/master/classes/Log/_Changes.php",
+		"/admin/churchapp/master/classes/DB/_Tables.php",
+		"/admin/churchapp/master/classes/Integration/_Stripe.php",
+		"/admin/churchapp/master/_maintenance/utils/stripe-json.php",
+		"/admin/churchapp/master/classes/ChurchApp/Account/_InstallData.php",
+		"/admin/churchapp/master/classes/_Tag.php",
+		"/admin/churchapp/master/modules/calendar/views/ajax/form_event.php",
+		"/admin/churchapp/master/modules/attendance/views/ajax/form_category.php",
+		"/admin/churchapp/master/classes/Maintenance/_Subscription.php",
+		"/admin/churchapp/master/classes/_CustomField.php",
+		"/admin/churchapp/master/classes/_Brand.php",
+		"/admin/churchapp/master/views/ajax/form_user_file.php",
+		"/admin/churchapp/master/modules/bookings/classes/_Type.php",
+		"/admin/churchapp/master/tests/Calendar/Signup/APITest.php",
+		"/admin/churchapp/master/tests/Calendar/Event/APITest.php",
+		"/admin/churchapp/master/modules/calendar/classes/_Signup.php",
+		"/admin/churchapp/master/classes/Model/_Branded.php",
+		"/admin/churchapp/master/tests/Children/Gathering/APITest.php",
+		"/admin/churchapp/master/modules/smallgroups/classes/_APIv1.php",
+		"/admin/churchapp/master/classes/Automate/Account/_Tinfoil.php",
+		"/admin/churchapp/master/tests/Bookings/Customer/ValidateTest.php",
+		"/admin/churchapp/master/tests/SmallGroups/Role/ValidateTest.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "anima.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_rotas",
+				"modules/rotas/classes/_Rotas.php"
+			],
+			[
+				"teardown roat",
+				"tests/Rotas/TearDown.php"
+			],
+			[
+				"_unava",
+				"modules/rotas/classes/_Unavailability.php"
+			],
+			[
+				"_auto",
+				"classes/_AutoObject.php"
+			],
+			[
+				"ro _api",
+				"modules/rotas/classes/_APIv1.php"
+			],
+			[
+				"_rota.php",
+				"modules/rotas/classes/_Rota.php"
+			],
+			[
+				"unav modeltest",
+				"tests/Rotas/Unavailability/ModelTest.php"
+			],
+			[
+				"_unav",
+				"modules/rotas/classes/_Unavailability.php"
+			],
+			[
+				"unav apites",
+				"tests/Rotas/Unavailability/APITest.php"
+			],
+			[
+				"un apit",
+				"tests/Rotas/Unavailability/APITest.php"
+			],
+			[
+				"_buk",
+				"classes/Integration/_BulkSMS.php"
+			],
+			[
+				"_bulksms",
+				"classes/Integration/_BulkSMS.php"
+			],
+			[
+				"_person",
+				"classes/_Person.php"
+			],
+			[
+				"_sms",
+				"classes/Communication/_SMS.php"
+			],
+			[
+				"_contact",
+				"modules/addressbook/classes/_Contact.php"
+			],
+			[
+				"_bulk",
+				"classes/Integration/_BulkSMS.php"
+			],
+			[
+				"_textlocal",
+				"classes/Integration/_Textlocal.php"
+			],
+			[
+				"changelogtes fun",
+				"tests/Giving/Fund/ChangelogTest.php"
+			],
+			[
+				"_fund",
+				"modules/giving/classes/_Fund.php"
+			],
+			[
+				"gi _apiv",
+				"modules/giving/classes/_APIv1.php"
+			],
+			[
+				"_file",
+				"classes/Model/_File.php"
+			],
+			[
+				"fund chan",
+				"modules/giving/fund_changelog_undo.php"
+			],
+			[
+				"pajax fund",
+				"modules/giving/views/pajax/fund.php"
+			],
+			[
+				"_ui",
+				"classes/Helper/_UI.php"
+			],
+			[
+				"fund index",
+				"modules/giving/fund_index.php"
+			],
+			[
+				"donation edit",
+				"modules/giving/donation_edit.php"
+			],
+			[
+				"_mini",
+				"modules/rotas/classes/_Ministry.php"
+			],
+			[
+				"ministry index",
+				"modules/rotas/ministry_index.php"
+			],
+			[
+				"fund change",
+				"tests/Giving/Fund/ChangelogTest.php"
+			],
+			[
+				"fund changelog",
+				"modules/giving/fund_changelog_undo.php"
+			],
+			[
+				"contact inde",
+				"modules/addressbook/contact_index.php"
+			],
+			[
+				"_givertest",
+				"_tests/Giving/_GiverTest.php"
+			],
+			[
+				"_donationste",
+				"_tests/Import/_DonationsTest.php"
+			],
+			[
+				"_declaratio",
+				"modules/giving/classes/_Declaration.php"
+			],
+			[
+				"form fun",
+				"modules/giving/views/ajax/form_fund.php"
+			],
+			[
+				"fund modeltest",
+				"tests/Giving/Fund/ModelTest.php"
+			],
+			[
+				"_Account",
+				"classes/Integration/_Account.php"
+			],
+			[
+				"_account",
+				"classes/Integration/Stripe/_Account.php"
+			],
+			[
+				"modeltest fund",
+				"tests/Giving/Fund/ModelTest.php"
+			],
+			[
+				"changelogtest fund",
+				"tests/Giving/Fund/ChangelogTest.php"
+			],
+			[
+				"pledge modeltest",
+				"tests/Giving/Pledge/ModelTest.php"
+			],
+			[
+				"validatetest",
+				"tests/Examples/ValidateTest.php"
+			],
+			[
+				"_pledge",
+				"modules/giving/classes/_Pledge.php"
+			],
+			[
+				"testcase",
+				"tests/TestCase.php"
+			],
+			[
+				"searchtest pledge",
+				"tests/Giving/Pledge/SearchTest.php"
+			],
+			[
+				"php",
+				"tests/phpunit.xml"
+			],
+			[
+				"_group",
+				"modules/smallgroups/classes/_Group.php"
+			],
+			[
+				"form group con",
+				"modules/smallgroups/views/ajax/form_group_confirmation.php"
+			],
+			[
+				"group confi",
+				"modules/smallgroups/views/form/group_confirmation.php"
+			],
+			[
+				"fund vie",
+				"modules/giving/fund_view.php"
+			],
+			[
+				"signup fields",
+				"modules/smallgroups/views/signup_fields.php"
+			],
+			[
+				"group view",
+				"modules/smallgroups/group_view.php"
+			],
+			[
+				"fund view",
+				"modules/giving/fund_view.php"
+			],
+			[
+				"module config gi",
+				"modules/giving/module_config.php"
+			],
+			[
+				"_giving",
+				"modules/giving/classes/_Giving.php"
+			],
+			[
+				"fund apitest",
+				"tests/Giving/Fund/APITest.php"
+			],
+			[
+				"avatars",
+				"tests/Avatars.php"
+			],
+			[
+				"_avatar",
+				"classes/_Avatar.php"
+			],
+			[
+				"_fields",
+				"modules/calendar/classes/Model/_Fields.php"
+			],
+			[
+				"category ",
+				"modules/calendar/category_view.php"
+			],
+			[
+				"type vi",
+				"modules/bookings/type_view.php"
+			],
+			[
+				"avat",
+				"classes/_Avatar.php"
+			],
+			[
+				"api.php",
+				"tests/API.php"
+			],
+			[
+				"_booking",
+				"modules/bookings/classes/_Booking.php"
+			],
+			[
+				"apitest fund",
+				"tests/Giving/Fund/APITest.php"
+			],
+			[
+				"avatar",
+				"tests/Avatars.php"
+			],
+			[
+				"Smallgroups",
+				"tests/Integration/SmallGroups.php"
+			],
+			[
+				"_chart",
+				"classes/_Chart.php"
+			],
+			[
+				"module config s",
+				"modules/smallgroups/module_config.php"
+			],
+			[
+				"_fnd",
+				"modules/giving/classes/_Fund.php"
+			],
+			[
+				"form fund",
+				"modules/giving/views/ajax/form_fund.php"
+			],
+			[
+				"form event",
+				"modules/calendar/views/ajax/form_event.php"
+			],
+			[
+				"validatetest fun",
+				"tests/Giving/Fund/ValidateTest.php"
+			],
+			[
+				"_event",
+				"modules/calendar/classes/_Event.php"
+			],
+			[
+				"form cate",
+				"modules/attendance/views/ajax/form_category.php"
+			],
+			[
+				"fund edit",
+				"modules/giving/fund_edit.php"
+			],
+			[
+				"search test fund",
+				"tests/Giving/Fund/SearchTest.php"
+			],
+			[
+				"signup apitest",
+				"tests/Calendar/Signup/APITest.php"
+			],
+			[
+				"_Event",
+				"modules/calendar/classes/_Event.php"
+			],
+			[
+				"apitest ee",
+				"tests/Calendar/Event/APITest.php"
+			],
+			[
+				"_signup",
+				"modules/calendar/classes/_Signup.php"
+			],
+			[
+				"apitest gather",
+				"tests/Children/Gathering/APITest.php"
+			],
+			[
+				"Giving",
+				"tests/Integration/Giving.php"
+			],
+			[
+				"searchtest fund",
+				"tests/Giving/Fund/SearchTest.php"
+			],
+			[
+				"_type",
+				"modules/bookings/classes/_Type.php"
+			],
+			[
+				"gi _api",
+				"modules/giving/classes/_APIv1.php"
+			],
+			[
+				"_Giving",
+				"modules/giving/classes/_Giving.php"
+			],
+			[
+				"fund validate",
+				"tests/Giving/Fund/ValidateTest.php"
+			],
+			[
+				"Givi",
+				"tests/Integration/Giving.php"
+			],
+			[
+				"_fun",
+				"modules/giving/classes/_Fund.php"
+			],
+			[
+				"event changelogtest",
+				"tests/Calendar/Event/ChangelogTest.php"
+			],
+			[
+				"group changelogtest",
+				"tests/SmallGroups/Group/ChangelogTest.php"
+			],
+			[
+				"type changelogtest",
+				"tests/Bookings/Type/ChangelogTest.php"
+			],
+			[
+				"changelogtest signup",
+				"tests/Calendar/Signup/ChangelogTest.php"
+			],
+			[
+				"changelogtest",
+				"tests/Children/Group/ChangelogTest.php"
+			],
+			[
+				"validattest fund",
+				"tests/Giving/Fund/ValidateTest.php"
+			],
+			[
+				"type apitest",
+				"tests/Bookings/Type/APITest.php"
+			],
+			[
+				"gathering apitest",
+				"tests/Children/Gathering/APITest.php"
+			],
+			[
+				"apitest type",
+				"tests/Bookings/Type/APITest.php"
+			],
+			[
+				"type validates",
+				"tests/Bookings/Type/ValidateTest.php"
+			],
+			[
+				"type validatetest",
+				"tests/Bookings/Type/ValidateTest.php"
+			],
+			[
+				"validatetest group",
+				"tests/SmallGroups/Group/ValidateTest.php"
+			],
+			[
+				"validatetest grou",
+				"tests/Children/Group/ValidateTest.php"
+			],
+			[
+				"validatte",
+				"tests/Examples/ValidateTest.php"
+			],
+			[
+				"giving.js",
+				"assets/js/modules/giving.js"
+			],
+			[
+				"_client",
+				"classes/Billing/_Client.php"
+			],
+			[
+				"_churchap",
+				"classes/_ChurchApp.php"
+			],
+			[
+				"_planning",
+				"modules/planning/classes/_Planning.php"
+			],
+			[
+				"_loggabe",
+				"classes/Trait/_Loggable.php"
+			],
+			[
+				"mod group",
+				"app/modules/my/model/mod_group.php"
+			],
+			[
+				"con groups",
+				"app/modules/my/controller/con_groups.php"
+			],
+			[
+				"con details",
+				"app/modules/my/controller/con_details.php"
+			],
+			[
+				"rota",
+				"assets/js/modules/rotas.js"
+			],
+			[
+				"unav",
+				"app/modules/my/view/partials/unavailability.php"
+			],
+			[
+				"rotas.",
+				"assets/js/modules/rotas.js"
+			],
+			[
+				"checkb",
+				"base/classes/helper/checkboxes.php"
+			],
+			[
+				"input base.php",
+				"base/classes/helper/input.php"
+			],
+			[
+				"base",
+				"node_modules/js-base64/base64.html"
+			],
+			[
+				"form unav",
+				"app/modules/my/view/ajax/form_unavailability.php"
+			],
+			[
+				"unavail",
+				"app/modules/my/view/partials/unavailability.php"
+			],
+			[
+				"rota_unav",
+				"app/modules/my/view/partials/rota_unavailability.php"
+			],
+			[
+				"rotas.js",
+				"assets/js/modules/rotas.js"
+			],
+			[
+				"rotas",
+				"assets/js/modules/rotas.js"
+			],
+			[
+				"group_atten",
+				"app/modules/my/view/group_attendance.php"
+			],
+			[
+				"gropu attendance",
+				"app/modules/my/view/partials/groups/group_view_attendance.php"
+			],
+			[
+				"con contact",
+				"app/modules/my/view/partials/contact_details.php"
+			],
+			[
+				"mod conta",
+				"app/modules/my/model/mod_contact.php"
+			],
+			[
+				"details",
+				"app/modules/my/view/partials/consent/details_contact.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/admin/churchapp/master/ChurchApp-Files.sublime-project"
+			],
+			[
+				"conn",
+				"/admin/churchapp/connect/ChurchApp-Connect.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "build senda",
+		"selected_items":
+		[
+			[
+				"build senda",
+				"build_send_data"
+			],
+			[
+				"fund changel",
+				"fund_changelog_undo"
+			],
+			[
+				"changelog changed image",
+				"changelog_changed_booking_image"
+			],
+			[
+				"changelog changed",
+				"changelog_changed"
+			],
+			[
+				"fund image",
+				"fund_delete_image"
+			],
+			[
+				"fund pajax",
+				"fund_pajax__GET"
+			],
+			[
+				"build order",
+				"build_order"
+			],
+			[
+				"fund edit",
+				"fund_edit"
+			],
+			[
+				"fund order",
+				"funds_reorder"
+			],
+			[
+				"has tax",
+				"has_tax_deductible"
+			],
+			[
+				"changelog gene",
+				"changelog_generate"
+			],
+			[
+				"pledge edit",
+				"pledge_edit"
+			],
+			[
+				"get required fields",
+				"validate_get_required_fields"
+			],
+			[
+				"pledge add",
+				"pledge_add"
+			],
+			[
+				"testAPICol",
+				"testApiArrayCollectionFields"
+			],
+			[
+				"field signup confr",
+				"field_signup_confirm_email_from_email"
+			],
+			[
+				"signup con",
+				"signup_confirmation__POST"
+			],
+			[
+				"fund confirmation",
+				"form_fund_confirmation__GET"
+			],
+			[
+				"cluster edit",
+				"cluster_edit"
+			],
+			[
+				"avatar add",
+				"avatar_add"
+			],
+			[
+				"has ta",
+				"has_tax_deductible"
+			],
+			[
+				"group edit",
+				"group_edit"
+			],
+			[
+				"field color",
+				"field_color_palette"
+			],
+			[
+				"field colo",
+				"field_color"
+			],
+			[
+				"field name",
+				"field_name"
+			],
+			[
+				"brand sty",
+				"brand_styles"
+			],
+			[
+				"search clause type id",
+				"search_clause_type_id"
+			],
+			[
+				"event get from re",
+				"event_get_from_request"
+			],
+			[
+				"type get from req",
+				"type_get_from_request"
+			],
+			[
+				"cluster__post",
+				"cluster__POST"
+			],
+			[
+				"fund_add",
+				"fund_add"
+			],
+			[
+				"testvalidateorder",
+				"testValidateOrder"
+			],
+			[
+				"test archivem",
+				"testValidateArchiveMtime"
+			],
+			[
+				"fund status",
+				"fund_status_update"
+			],
+			[
+				"api collect",
+				"api_array_collection_fields"
+			],
+			[
+				"test ApiA",
+				"testApiArrayCollectionFields"
+			],
+			[
+				"api collc",
+				"api_array_collection_fields"
+			],
+			[
+				"group add",
+				"group_add"
+			],
+			[
+				"fund add",
+				"fund_add"
+			],
+			[
+				"confirm email",
+				"confirm_email"
+			],
+			[
+				"changelog change image",
+				"changelog_changed_booking_image"
+			],
+			[
+				"brand get",
+				"brand_get"
+			],
+			[
+				"build brandid",
+				"build_brand_id"
+			],
+			[
+				"build_brand_id",
+				"build_brand_id"
+			],
+			[
+				"build is publi",
+				"build_public_signup"
+			],
+			[
+				"build status",
+				"build_status"
+			],
+			[
+				"buildimage",
+				"build_image"
+			],
+			[
+				"build confirm email",
+				"build_signup_confirm_email"
+			],
+			[
+				"build name",
+				"build_name"
+			],
+			[
+				"_status",
+				"type_status"
+			],
+			[
+				"fund__get",
+				"fund__GET"
+			],
+			[
+				"signup add",
+				"signup_add"
+			],
+			[
+				"generate_iden",
+				"generate_identifier"
+			],
+			[
+				"type add",
+				"type_add"
+			],
+			[
+				"const valida pa",
+				"const_valid_params"
+			],
+			[
+				"testGetAva",
+				"testGetAvatarStyle"
+			],
+			[
+				"pledge__put",
+				"pledge__PUT"
+			],
+			[
+				"pledge__post",
+				"pledge__POST"
+			],
+			[
+				"payment_add",
+				"payment_add"
+			],
+			[
+				"action unavailab form",
+				"action_form_unavailability__GET"
+			],
+			[
+				"action form un",
+				"action_form_unavailability__GET"
+			],
+			[
+				"unavaila add",
+				"add_unavailability"
+			],
+			[
+				"action form unav",
+				"action_form_unavailability__GET"
+			],
+			[
+				"form unav",
+				"action_form_unavailability__GET"
+			],
+			[
+				"form action ",
+				"action_form_unavailability__GET"
+			],
+			[
+				"add unav",
+				"add_unavailability"
+			],
+			[
+				"action form una",
+				"action_form_unavailability__GET"
+			],
+			[
+				"format",
+				"format"
+			],
+			[
+				"unavail post",
+				"action_unavailability__POST"
+			],
+			[
+				"form un",
+				"action_form_unavailability__GET"
+			],
+			[
+				"action_cno",
+				"action_consent__POST"
+			],
+			[
+				"form una",
+				"action_form_unavailability__GET"
+			],
+			[
+				"unavailability",
+				"action_unavailability_view__GET"
+			],
+			[
+				"form unavail",
+				"action_form_unavailability_add__GET"
+			],
+			[
+				"form group mem",
+				"action_form_group_member_roles__GET"
+			],
+			[
+				"contact",
+				"contact_id"
+			],
+			[
+				"member add",
+				"add_member"
+			],
+			[
+				"conse",
+				"consent_params"
+			],
+			[
+				"consent",
+				"consent"
+			],
+			[
+				"signup_",
+				"signup_cancel"
+			],
+			[
+				"unavailability add",
+				"add_unavailability"
+			],
+			[
+				"attendanc",
+				"add_attendance"
+			],
+			[
+				"add member",
+				"add_members"
+			],
+			[
+				"groups",
+				"signup-groups"
+			],
+			[
+				"group_members",
+				"group_members__POST"
+			],
+			[
+				"form email flyer",
+				"form_email_flyer__GET"
+			],
+			[
+				"changelog_changed",
+				"changelog_changed_day"
+			],
+			[
+				"Overseer_Add",
+				"SmallGroups_Cluster_Overseer_Add"
+			],
+			[
+				"add_over",
+				"add_overseer"
+			],
+			[
+				"type question get",
+				"type_question__GET"
+			],
+			[
+				"role add",
+				"role_add"
+			],
+			[
+				"ministry add",
+				"ministry_add"
+			]
+		],
+		"width": 666.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
