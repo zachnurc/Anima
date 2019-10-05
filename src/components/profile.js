@@ -1,5 +1,9 @@
 import React from 'react';
 
+function Avatar() {
+	return <div><p>Avatar</p></div>;
+}
+
 class Profile extends React.Component {
 
 	constructor(props) {
@@ -40,18 +44,14 @@ class Profile extends React.Component {
         };
 	}
 
-	Avatar() {
-		return <div><p>Avatar</p></div>;
-	}
-
 	render() {
 		return (
 			<Avatar />
-			{props.stats.map((stat, i) => {
-	           console.log("Entered");
-	           // Return the element. Also pass key
-	           return (<Answer key={i} answer={answer} />)
-	        })}
+			// {props.stats.map((stat, i) => {
+	  //          console.log("Entered");
+	  //          // Return the element. Also pass key
+	  //          return (<Answer key={i} answer={answer} />)
+	  //       })}
 		);
 	}
 }
